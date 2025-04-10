@@ -36,7 +36,7 @@ This project focuses on forecasting **volatility in commodity metal products** u
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - MATLAB R2023+ (Deep Learning Toolbox, Statistics & Machine Learning Toolbox)
 - Python (optional for hybrid modeling)
