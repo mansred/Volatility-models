@@ -1,0 +1,10 @@
+# MATLAB temporary files
+*.asv
+*.m~
+*.mat
+*.fig
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
